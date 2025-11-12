@@ -9,8 +9,7 @@
 * 🧠  I'm currently learning Full Stack Development
 
 
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)]([[https://www.instagram.com/prajapati_nikhil_7067/?next=%2F)r](https://www.instagram.com/prajapati_nikhil_7067/?next=%2F)r](https://www.instagram.com/prajapati_nikhil_7067/?next=%2F))
-
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)]([[https://www.instagram.com/prajapati_nikhil_7067/?next=%2F)
 
 <h3 align="left">Skills:</h3>
 <p align="left">
